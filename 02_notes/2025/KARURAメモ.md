@@ -621,3 +621,4 @@ The other target is phospholipids—key components of cell membranes—since cel
 To develop the fluorescence detector, we attended a workshop at the National Institute for Physiological Sciences to learn the basics of optical components. We sought advice on lens and mirror selection from Sigma Koki engineers and additional input on fluorescent reagent properties from Dr. Shima at the University of Tokyo.
 
 **
+
