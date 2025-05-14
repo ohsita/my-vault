@@ -586,3 +586,6 @@ TMA-DPHのスタンダードプロトコルは室温での3分のインキュベ
 
 ----
 この液体は採取した土壌サンプルを溶解させキュベットまで輸送する。EDTAを10mMの濃度で溶解させた抽出液を50mlのシリンジ2本に分けローバーに搭載する。具体的には、100mlのPBSに37.2mg EDTA・Na2を溶解させる。
+
+
+Using actual soil samples, we varied the incubation time, temperature, and sample concentration of the test solution, and measured fluorescence spectra under each condition. Incubation times of 3, 5, 7, 9, 11, and 13 minutes, and temperatures of 40, 50, 60, and 70°C were tested. Based on the resulting fluorescence intensities and practical considerations, the optimal condition was determined to be incubation at 55°C for 5 minutes after the addition of the test solution.
