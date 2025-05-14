@@ -595,8 +595,4 @@ Using actual soil samples, we varied the incubation time, temperature, and sampl
 サンプル量
 20, 40, 60, 80
 温度条件
-Hoechst: 37, 41, 45, 49
-TMA-DPH: 20, 30, 35, 40, 45, 50
-
-
-
+30, 35, 40, 45, 50, 55, 60
