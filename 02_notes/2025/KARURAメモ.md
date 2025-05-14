@@ -611,3 +611,13 @@ A similar experiment to Hoechst 33342 was performed with soil samples collected 
 Subsequently, experiments were conducted at the University of Tokyo with varying concentrations of EDTA, and it was concluded that 10 mM EDTA PBS Solution was the best extraction solution.
 
 optimize
+
+**
+
+We focus on essential genetic materials and selected DNA as the detection target. DNA is common to all known forms of life on Earth and indicates current or past biological presence. Hoechst 33342 is used as the DNA-binding fluorescent dye. Comparative tests with DAPI at NIT Toyama College demonstrated stronger fluorescence from Hoechst 33342, likely due to its membrane permeability¹. Rough detection conditions were determined by experiments at NIT Toyama College. E. coli suspension was used as the extractant, and fluorescence spectra were measured with a fluorescence spectrophotometer. Since no clear signal was obtained due to suspected hindrance from the cell wall, EDTA was added to PBS, resulting in the highest fluorescence intensity. Subsequently, experiments were conducted at the University of Tokyo with varying concentrations of EDTA, and it was concluded that 10 mM EDTA PBS solution was the best extraction solution. Experiments are also carried out at the University of Tokyo to optimize the amount of reagents and reaction conditions. Incubation times were 5 and 15 minutes, and temperatures were 30°C, 35°C, 40°C, 45°C, 50°C, 55°C, and 60°C. Based on the mission timeline, optimal fluorescence intensity in a short period was achieved by incubating samples at 55 °C for 5 minutes after adding the test solution, using 10 mM EDTA and a total extract and stain concentration of 40 mg/mL. 
+
+The other target is phospholipids—key components of cell membranes—since cells must protect their internal contents. To detect cell membranes, we used TMA-DPH, preparing a stock solution by dissolving it in DMSO and diluting it with PBS containing EDTA. Under the same conditions as Hoechst 33342 was performed with soil samples collected at the same location, confirming the same optimal conditions for best yielding: 55°C for 5 min, 10 mM EDTA concentration in the extractant.
+
+To develop the fluorescence detector, we attended a workshop at the National Institute for Physiological Sciences to learn the basics of optical components. We sought advice on lens and mirror selection from Sigma Koki engineers and additional input on fluorescent reagent properties from Dr. Shima at the University of Tokyo.
+
+**
