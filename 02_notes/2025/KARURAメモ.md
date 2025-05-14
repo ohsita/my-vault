@@ -589,3 +589,14 @@ TMA-DPHのスタンダードプロトコルは室温での3分のインキュベ
 
 
 Using actual soil samples, we varied the incubation time, temperature, and sample concentration of the test solution, and measured fluorescence spectra under each condition. Incubation times of 3, 5, 7, 9, 11, and 13 minutes, and temperatures of 40, 50, 60, and 70°C were tested. Based on the resulting fluorescence intensities and practical considerations, the optimal condition was determined to be incubation at 55°C for 5 minutes after the addition of the test solution.
+
+時間条件
+5, 15
+サンプル量
+20, 40, 60, 80
+温度条件
+Hoechst: 37, 41, 45, 49
+TMA-DPH: 20, 30, 35, 40, 45, 50
+
+
+
