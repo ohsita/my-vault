@@ -601,4 +601,8 @@ Using actual soil samples, we varied the incubation time, temperature, and sampl
 
 Fluorescence spectra were measured under different conditions using natural soil samples, varying incubation time, temperature, sample volume of test solution, and EDTA concentration in the extract solution. Incubation times of 5 and 15 minutes, temperatures of 30°C, 35°C, 40°C, 45°C, 50°C, 55°C, and 60°C, sample amounts of 20 mg, 40 mg, 60 mg, and 80 mg in 1 ml of total extract and stain solution, and EDTA concentrations in the extract solution of 0.1 mM, 1 mM, 5 mM, 7 mM, 10 mM, 25 mM, 50 mM, 100mM. Considering the actual mission time, it was determined that the optimal conditions for obtaining strong fluorescence intensity in a short time were obtained by incubating the samples at 55°C for 5 minutes after adding the test solution, using an EDTA concentration of 10 mM and a total concentration of 40 mg/ml of the extract and staining solution. The optimal condition was determined to be a short incubation at 55°C for 5 minutes after the addition of the test solution.
 
-**Similar experiments were conducted as with Hoechst 33342, using soil samples under varied heating conditions and concentrations, and the same optimal condition was identified: 55°C for 5 minutes.**
+
+
+Hoechst 33342と同様の実験を、同じ場所で採取された土壌サンプルを用いて行ったところ、同じ最適条件が確認された： 55℃で5分間, 試料40mg/ml, 抽出液中EDTA濃度10mM。
+
+A similar experiment to Hoechst 33342 was performed with soil samples collected at the same location, confirming the same optimal conditions: 55°C for 5 min, 40 mg/ml sample, 10 mM EDTA concentration in the extractant.
