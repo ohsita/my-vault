@@ -609,3 +609,5 @@ A similar experiment to Hoechst 33342 was performed with soil samples collected 
 
 その後、東京大学でEDTAの濃度を変化させ実験を行い、10mM EDTA PBS Solution が抽出液として最適であると結論付けた。
 Subsequently, experiments were conducted at the University of Tokyo with varying concentrations of EDTA, and it was concluded that 10 mM EDTA PBS Solution was the best extraction solution.
+
+optimize
