@@ -606,3 +606,6 @@ Fluorescence spectra were measured under different conditions using natural soil
 Hoechst 33342と同様の実験を、同じ場所で採取された土壌サンプルを用いて行ったところ、同じ最適条件が確認された： 55℃で5分間, 試料40mg/ml, 抽出液中EDTA濃度10mM。
 
 A similar experiment to Hoechst 33342 was performed with soil samples collected at the same location, confirming the same optimal conditions: 55°C for 5 min, 40 mg/ml sample, 10 mM EDTA concentration in the extractant.
+
+加えて東京大学でEDTAの濃度を変化させ実験を行い、10mM EDTA PBS Solution が抽出液として最適であると結論付けた。
+In addition, experiments were conducted at the University of Tokyo with varying concentrations of EDTA, and it was concluded that 10 mM EDTA PBS Solution was the best extraction solution.
