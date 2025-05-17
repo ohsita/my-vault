@@ -624,4 +624,6 @@ To develop the fluorescence detector, we attended a workshop at the National Ins
 
 成分を取り出す抽出液は当初PBSだったが、NIT富山カレッジでの実験ではおそらく試薬の細胞膜への到達が細胞壁により阻害されたため、十分な蛍光強度が得ることができなかった。キレート剤であるEDTA-2Naを添加した場合、良好な蛍光強度が得られた。東京大学で濃度を変え実験を行った結果、EDTA 10mM PBS Solution が抽出液として最適であると結論付けた。
 
-The extract solution from which the components were extracted was initially PBS, but sufficient fluorescence intensity could not be obtained in the experiment at NIT Toyama College, probably because the cell wall prevented the reagent from reaching the cell membrane.When the chelating agent EDTA-2Na was added, good fluorescence intensity was obtained.After conducting experiments at different concentrations at the University of Tokyo, we concluded that EDTA 10 mM PBS Solution was the best extractant.　良好
+The extract solution from which the components were extracted was initially PBS, but sufficient fluorescence intensity could not be obtained in the experiment at NIT Toyama College, probably because the cell wall prevented the reagent from reaching the cell membrane.When the chelating agent EDTA-2Na was added, good fluorescence intensity was obtained.After conducting experiments at different concentrations at the University of Tokyo, we concluded that EDTA 10 mM PBS Solution was the best extractant.
+
+
