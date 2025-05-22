@@ -626,3 +626,6 @@ To develop the fluorescence detector, we attended a workshop at the National Ins
 
 The extract solution from which the components were extracted was initially PBS, but sufficient fluorescence intensity could not be obtained in the experiment at NIT Toyama College, probably because the cell wall prevented the reagent from reaching the cell membrane.When the chelating agent EDTA-2Na was added, good fluorescence intensity was obtained.After conducting experiments at different concentrations at the University of Tokyo, we concluded that EDTA 10 mM PBS Solution was the best extractant.
 
+他のものが反応した可能性は?
+UV-LEDの光がそのまま帰ってきた可能性
+
