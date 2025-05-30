@@ -666,5 +666,11 @@ DNA
 これが実際の蛍光実験の様子です。土壌サンプルを抽出液、染色液と混合し、直後と5分後の様子を観察しました。5分間のインキュベート後、Hoechst 33342とTMA-DPHをそれぞれ添加したものは、肉眼でも色に変化があることがわかります。479nmのフィルターを通した画像では、それぞれ混合直後では確認できなかった青の蛍光が確認できます。
 This is the actual fluorescence experiment. Soil samples were mixed with the extractant and stain solution and observed immediately after and 5 minutes after incubation. 5 minutes after incubation, the color of the soil samples with Hoechst 33342 and TMA-DPH, respectively, changed. The image through the 479 nm filter shows blue fluorescence, which could not be seen immediately after mixing.
 
+Hoechst
+TMA-DPH
+Blank
 
-仮
+Site 1
+At this site, DNA was detected, but phospholipids was not. This result suggest that the presence of lives which don't use phospholipids as the material of the cell membrane. This result may suggest the existence of life that does not use phospholipids as a raw material for membrane structure, or the existence of life that died out in the past.
+
+この結果はリン脂質を膜構造の原料として用いない生命の存在、または過去に死滅した生命の存在を示唆していると考えられる。
