@@ -679,3 +679,6 @@ At this site, DNA was detected, but phospholipids was not. This result suggest t
 
 
 このサイトでは、DNAもリン脂質も検出されなかった。この結果は、生命は存在したが検出するために十分な量のDNAとリン脂質が存在しなかった、リン脂質もDNAも用いない生命が存在していた、もしくはそこに生命は存在しなかった可能性を示唆していると考えられる。
+
+このサイトでは、Hoechst 33342とサンプルはブランクと比べ十分強い反応を示したものの、TMA-DPHはそうではなかった。これよりこの地点にはDNAが存在するとわかった。
+At this site, the Hoechst 33342 sample respond sufficiently strong compared to the blank, but the TMA-DPH was not. From this we know that DNA is present at this site.
