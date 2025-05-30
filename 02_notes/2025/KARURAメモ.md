@@ -695,4 +695,3 @@ We acknowledge that they look similar to other particles which are probably clay
 
 DNAのみ
 At this site, the Hoechst 33342 sample responded sufficiently strongly compared to the blank, but the TMA-DPH did not. From this, we know that DNA is present at this site. This result may suggest the existence of life that does not use phospholipids as a raw material for membrane structure, or the existence of life that died out in the past.
-
