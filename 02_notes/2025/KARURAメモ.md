@@ -687,3 +687,10 @@ At this site, the Hoechst 33342 sample respond sufficiently strong compared to t
 
 これはこの生き物が極限環境にて生存することを可能とする。
 This allows the creature to survive in extreme environments.
+
+
+It has a high value
+We acknowledge that they look similar to other particles which are probably clay minerals; however, since it has an abnormally high value, we conclude that a sample return from this site is needed for further investigation
+
+
+DNA, リン脂質
