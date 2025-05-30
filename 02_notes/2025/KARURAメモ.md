@@ -674,3 +674,6 @@ Site 1
 At this site, DNA was detected, but phospholipids was not. This result suggest that the presence of lives which don't use phospholipids as the material of the cell membrane. This result may suggest the existence of life that does not use phospholipids as a raw material for membrane structure, or the existence of life that died out in the past.
 
 この結果はリン脂質を膜構造の原料として用いない生命の存在、または過去に死滅した生命の存在を示唆していると考えられる。
+
+
+このサイトでは、DNAもリン脂質も検出されなかった。この結果は、生命は存在したが検出するために十分な量のDNAとリン脂質が存在しなかった、リン脂質もDNAも用いない生命が存在していた、もしくはそこに生命は存在しなかった可能性を示唆していると考えられる。
