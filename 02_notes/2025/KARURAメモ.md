@@ -684,3 +684,6 @@ At this site, DNA was detected, but phospholipids was not. This result suggest t
 At this site, the Hoechst 33342 sample respond sufficiently strong compared to the blank, but the TMA-DPH was not. From this we know that DNA is present at this site.
 
 このサイトでは、Hoechst 33342サンプルもTMA-DPHサンプルもブランクと比較し有意な蛍光強度の差が見られなかった。これより、この地点には十分な量のDNAとリン脂質が存在しないとわかった。
+
+これはこの生き物が極限環境にて生存することを可能とする。
+This allows the creature to survive in extreme environments.
