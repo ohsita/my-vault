@@ -2,7 +2,14 @@
 tags:
   - note
 ---
-重要
+事前に起動しておくもの
+ターミナル × 2
+Ubuntu 22.04 × 3
+VSCode 必要ソフトウェア
+Fluor detector (explorer)
+run_logs_original_style (explorer)
+
+重要（作業済み、効果なし、有線接続は問題ない、IP変えたから安定するはず）
 ラズパイのWifi IPを変更すること
 (有線IPは192.168.137.40のまま)
 
