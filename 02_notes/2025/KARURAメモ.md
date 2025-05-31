@@ -706,4 +706,4 @@ DNA, リン脂質
 At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids. This feature is similar to that of terrestrial life, suggesting the occurrence of interplanetary panspermia.
 
 なにもなし
-At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity . Although no signal could be obtained in this condition, it may have been below the detection limit and is not evidence of the absence of DNA, phospholipids at all.（no signal ではないため、消したcompare to blankの内容も使っていい感じに）
+At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity . Although only a weak signal was obtained under these conditions, we believe that it may have been below the detection limit and is not evidence of a complete absence of DNA or phospholipids.（no signal ではないため、消したcompare to blankの内容も使っていい感じに）
