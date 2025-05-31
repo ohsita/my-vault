@@ -707,3 +707,6 @@ At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly
 
 なにもなし
 At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity . Although only a weak signal was obtained under these conditions, we believe that it may have been below the detection limit and is not evidence of a complete absence of DNA or phospholipids.
+
+
+7.1% or 1.1%
