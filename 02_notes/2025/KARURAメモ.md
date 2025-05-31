@@ -696,11 +696,11 @@ We acknowledge that they look similar to other particles which are probably clay
 
 
 DNAのみ
-At this site, the Hoechst 33342 sample responded sufficiently strongly compared to the blank, but the TMA-DPH did not. From this, we know that DNA is present at this site. This result may suggest the existence of life that does not use phospholipids as a raw material for membrane structure, or the existence of life that died out in the past.
+At this site, the Hoechst 33342 sample responded sufficiently strongly compared to the blank, but the TMA-DPH did not. From this, we know that DNA is present at this site. This result may suggest the existence of life that does not use phospholipids as a raw material for membrane structure, or the existence of life that died out in the past.（リン脂質の分解条件に付いて明示的に説明する）
 
 
 リン脂質のみ
-At this site, the TMA-DPH sample responded sufficiently strongly compared to the blank, but the Hoechst 33342 did not. From this, we know that DNA is present at this site. This result may suggest the existence of life that does not use DNA as a genetic material, after the death of the organism, DNA was rapidly degraded for a some reason after the death of the organism, (リン脂質の分解速度にも言及する、for some reason を明示的に)
+At this site, the TMA-DPH sample responded sufficiently strongly compared to the blank, but the Hoechst 33342 did not. From this, we know that DNA is present at this site. This result may suggest the existence of life that does not use DNA as a genetic material, after the death of the organism, DNA was rapidly degraded for a some reason after the death of the organism, (リン脂質の分解速度にも言及する、for some reason を明示的に、今書いてあるところは短くできる)
 
 DNA, リン脂質
 At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids.
