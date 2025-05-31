@@ -700,7 +700,7 @@ At this site, the Hoechst 33342 sample responded sufficiently strongly compared 
 
 
 リン脂質のみ
-At this site, the TMA-DPH sample responded sufficiently strongly compared to the blank, but the Hoechst 33342 did not. From this, we know that DNA is present at this site. Given the rapid degradation of cell membranes in the case of necrosis, this result may suggest the existence of life that does not use DNA as a genetic material, after the death of the organism, DNA was rapidly degraded for a some reason after the death of the organism, (リン脂質の分解速度にも言及する、for some reason を明示的に、今書いてあるところは短くできる)
+At this site, the TMA-DPH sample reacted strongly enough compared to the blank, but not Hoechst 33342. This indicated the presence of phospholipid clumps at this site. Considering that in the case of necrosis, the cell membrane is rapidly degraded, this result may suggest that there is life without DNA as genetic material and that DNA was rapidly degraded by depurination and extracellular DNase after the death of the organism. (リン脂質の分解速度にも言及する、for some reason を明示的に、今書いてあるところは短くできる)
 
 DNA, リン脂質
 At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids.（地球型生命、惑星間パンスペルミア）
