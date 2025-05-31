@@ -703,7 +703,7 @@ At this site, the Hoechst 33342 sample responded sufficiently strongly compared 
 At this site, the TMA-DPH sample reacted strongly enough compared to the blank, but not Hoechst 33342. This indicated the presence of phospholipid clumps at this site. Considering that in the case of necrosis, the cell membrane is rapidly degraded, this result may suggest that there is life without DNA as genetic material and that DNA was rapidly degraded by depurination and extracellular DNase after the death of the organism. (リン脂質の分解速度にも言及する、for some reason を明示的に、今書いてあるところは短くできる)
 
 DNA, リン脂質
-At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids.（地球型生命、惑星間パンスペルミア）
+At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids. This feature is similar to that of terrestrial life, suggesting the occurrence of interplanetary panspermia.
 
 なにもなし
-At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity ~~compared to blank~~. Although no signal could be obtained in this condition, it may have been below the detection limit and is not evidence of the absence of DNA, phospholipids at all.（no signal ではないため、消したcompare to blankの内容も使っていい感じに）
+At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity . Although no signal could be obtained in this condition, it may have been below the detection limit and is not evidence of the absence of DNA, phospholipids at all.（no signal ではないため、消したcompare to blankの内容も使っていい感じに）
