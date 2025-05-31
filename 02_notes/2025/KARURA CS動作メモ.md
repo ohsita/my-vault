@@ -2,6 +2,10 @@
 tags:
   - note
 ---
+重要
+ラズパイのWifi IPを変更すること
+(有線IPは192.168.137.40のまま)
+
 #### 蛍光
 SSH接続で
 colcon build
