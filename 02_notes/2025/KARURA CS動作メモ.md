@@ -6,7 +6,7 @@ tags:
 ラズパイのWifi IPを変更すること
 (有線IPは192.168.137.40のまま)
 
-#### 蛍光
+#### 蛍光 (Hoechst→TMA-DPH→Blank)
 SSH接続で
 colcon build
 ros2 run v4l2_camera v4l2_camera_node
