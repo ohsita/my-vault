@@ -706,4 +706,4 @@ DNA, リン脂質
 At this site, Both Hoechst 33342 sample and TMA-DPH sample sufficiently strongly compared to the blank. From this, we know that both DNA and Phospholipids structure are present at this site. This result may suggest the existence of life use DNA and Phospholipids.
 
 なにもなし
-At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity compared to BLANK.Although no signal could be obtained in this condition, it may have been below the detection limit and is not evidence of the absence of DNA, phospholipids at all.
+At this site, Hoechst 33342 and TMA-DPH did not yield significant fluorescence intensity compared to blank. Although no signal could be obtained in this condition, it may have been below the detection limit and is not evidence of the absence of DNA, phospholipids at all.
