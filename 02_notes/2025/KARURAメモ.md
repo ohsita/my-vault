@@ -668,6 +668,8 @@ Two targets are detected using fluorescent reagents, Hoechst 33342 for DNA and T
 これが実際の蛍光実験の様子です。土壌サンプルを抽出液、染色液と混合し、直後と5分後の様子を観察しました。5分間のインキュベート後、Hoechst 33342とTMA-DPHをそれぞれ添加したものは、肉眼でも色に変化があることがわかります。479nmのフィルターを通した画像では、それぞれ混合直後では確認できなかった青の蛍光が確認できます。
 This is the actual fluorescence experiment. Soil samples were mixed with the extractant and stain solution and observed immediately after and 5 minutes after incubation. 5 minutes after incubation, the color of the soil samples with Hoechst 33342 and TMA-DPH, respectively, changed. The image through the 479 nm filter shows blue fluorescence, which could not be seen immediately after mixing.
 
+You can see the images that the fluorescence
+
 Hoechst
 TMA-DPH
 Blank
