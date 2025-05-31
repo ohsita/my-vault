@@ -10,8 +10,7 @@ ros2 run v4l2_camera v4l2_camera_node
 source install/setup.bash
 ros2 run fluorescence capture_and_count
 
-ローカルターミナルで
-C:/Python38/python.exe c:/Users/daxia/Desktop/URC2025/Fluor_average.py
+VSCodeで Fluor_average.py または Fluor_middle.py
 
 #### インカメ
 WSL Ubuntu 22.04.05 LTSで
@@ -26,3 +25,4 @@ WSL 同じく
 SSH ログイン
 ./runpressure.sh
 
+VSCode で Pressure to height.py
