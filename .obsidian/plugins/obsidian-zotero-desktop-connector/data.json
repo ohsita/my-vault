@@ -7,13 +7,15 @@
   "citeFormats": [],
   "exportFormats": [
     {
-      "name": "create ",
-      "outputPathTemplate": "{{citekey}}.md",
+      "name": "create note",
+      "outputPathTemplate": "Article Notes/{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "00_templates/06_Research.md",
+      "cslStyle": "nature"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"
 }
