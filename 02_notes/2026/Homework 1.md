@@ -7,7 +7,7 @@ tags:
 
 
 
-## Final Project Proposal: Space-Grade Oleaginous Yeast for Nutrition & Comfort
+## Development of High-Nutrient Yeast via Genetic Modification and the Creation of Nutritional Supplements Using It
 
 ### 1. Project Concept: Why Space Food Matters
 
