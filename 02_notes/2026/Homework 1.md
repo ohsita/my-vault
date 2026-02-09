@@ -75,9 +75,9 @@ NA
 
 ### 5. Prioritization and Trade-offs
 
-**Selected Priority: Action A (Synthetic Auxotrophy)**
+**Selected Priority: **
 
-I have decided to prioritize **Action A** because biological containment is a non-negotiable requirement for space travel. Physical barriers eventually fail; a biological lock is the ultimate safeguard.
+I have decided to prioritize 
 
 **Trade-off Management:**
 
