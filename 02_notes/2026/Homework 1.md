@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# Week 1 Assignment: Principles and Practices
+# Week 1 Assignment: Princあiples and Practices
 
 ## Project: Poly-Berry (Cellular Fruit)
 
