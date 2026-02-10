@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - htgaa
 ---
 > [!Class Assignment]
 >
